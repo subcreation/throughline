@@ -1,0 +1,4 @@
+interface:
+  display_name: "Throughline"
+  short_description: "Keep human intent intact from rough request to verified result"
+  default_prompt: "Apply Throughline to shape this material into capability-led Stories, Moves, Mysteries, Witnesses, and an implementation Brief without losing intent."
